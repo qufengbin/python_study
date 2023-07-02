@@ -1,0 +1,3 @@
+leetcode:leetcode刷题目录
+study:python学习目录
+test:一般测试目录
